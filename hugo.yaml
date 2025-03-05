@@ -121,18 +121,10 @@ menu:
       name: About
       url: /about/
       weight: 20
-    - identifier: categories
-      pre: dropdown
-      name: Categories
-      weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
-      weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 50
+      weight: 30
   categories:
     - identifier: prose
       name: Prose
